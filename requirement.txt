@@ -6,3 +6,5 @@ jupyter
 seaborn
 scikit-learn
 mlxtend
+tensorflow
+tensorflow_hub
