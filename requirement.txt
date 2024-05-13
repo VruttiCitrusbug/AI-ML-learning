@@ -8,3 +8,5 @@ scikit-learn
 mlxtend
 tensorflow
 tensorflow_hub
+nltk
+transformers
