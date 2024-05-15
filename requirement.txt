@@ -10,3 +10,4 @@ tensorflow
 tensorflow_hub
 nltk
 transformers
+pinecone-client
