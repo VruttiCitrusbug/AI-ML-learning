@@ -1,3 +1,4 @@
 venv/
 note
 .ipynb_checkpoints/
+.env
