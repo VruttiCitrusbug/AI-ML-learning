@@ -11,3 +11,5 @@ tensorflow_hub
 nltk
 transformers
 pinecone-client
+openai
+openpyxl
