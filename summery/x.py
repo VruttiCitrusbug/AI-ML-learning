@@ -1,0 +1,1 @@
+print(open("C:\Projects\AI-ML-learning\summery\harvard.wav", 'rb'))
